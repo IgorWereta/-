@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="uk">
 <head>
 <meta charset="UTF-8">
@@ -73,12 +73,12 @@
 <div class="container">
     <h1>🚀 First in Space PC</h1>
     <p>Професійна допомога у вирішенні комп'ютерних проблем.<br>
-       Звертайтеся, чекаю на ваші повідомлення у будь-який час 🙂</p>
+       Звертайтеся, чекаю на ваші повідомлення </p>
 
     <a href="tel:+380509287366" class="btn">📞 +380 50 928 7366</a>
     <a href="tel:+380933168359" class="btn">📞 +380 93 316 8359</a>
     <a href="https://t.me/IgorWeretaPC" class="btn telegram" target="_blank">💬 Мій Telegram</a>
-    <a href="https://maps.app.goo.gl/DxKBpGCqzVo5uvG76" class="btn" target="_blank">📍 Ми на Google Maps</a>
+    <a href="https://maps.app.goo.gl/DxKBpGCqzVo5uvG76" class="btn" target="_blank">📍 Я на Google Maps</a>
 </div>
 
 </body>
